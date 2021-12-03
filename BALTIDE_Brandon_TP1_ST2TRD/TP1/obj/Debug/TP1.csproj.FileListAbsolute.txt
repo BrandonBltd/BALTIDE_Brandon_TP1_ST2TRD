@@ -1,0 +1,6 @@
+C:\Users\brand\RiderProjects\BALTIDE_Brandon_TP1_ST2TRD\TP1\bin\Debug\TP1.exe
+C:\Users\brand\RiderProjects\BALTIDE_Brandon_TP1_ST2TRD\TP1\bin\Debug\TP1.pdb
+C:\Users\brand\RiderProjects\BALTIDE_Brandon_TP1_ST2TRD\TP1\obj\Debug\TP1.csproj.AssemblyReference.cache
+C:\Users\brand\RiderProjects\BALTIDE_Brandon_TP1_ST2TRD\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\brand\RiderProjects\BALTIDE_Brandon_TP1_ST2TRD\TP1\obj\Debug\TP1.exe
+C:\Users\brand\RiderProjects\BALTIDE_Brandon_TP1_ST2TRD\TP1\obj\Debug\TP1.pdb
